@@ -1,3 +1,7 @@
+// Card Class that just provides the suit of Cards and rank selected by players.
+
+
+
 package application;
 
 public class Card {
