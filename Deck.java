@@ -1,3 +1,5 @@
+//this java class contains an arraylist to store the deck of cards and shuffle the cards whenever the player wants to shuffle the cards.
+
 package application;
 
 
