@@ -1,3 +1,6 @@
+//This is Main class of BlackJack game which builds up al the view for blackJack and use the methods of Deck Or Card class to create a login 
+// to enable the players to play the game and then declaring the winner on hte basic of high scores.
+
 package application;
 
 import javafx.application.Application;
